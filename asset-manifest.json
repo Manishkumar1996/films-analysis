@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/films-analysis/static/css/main.63ee3775.css",
+    "main.js": "/films-analysis/static/js/main.a5dbcff2.js",
+    "index.html": "/films-analysis/index.html",
+    "main.63ee3775.css.map": "/films-analysis/static/css/main.63ee3775.css.map",
+    "main.a5dbcff2.js.map": "/films-analysis/static/js/main.a5dbcff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ee3775.css",
+    "static/js/main.a5dbcff2.js"
+  ]
+}
